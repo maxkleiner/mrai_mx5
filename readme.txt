@@ -33,6 +33,8 @@ and an 1D, 2D Haar Feature extractor which is based on an integral image approac
 A testing application TestClassifier.dpr which shows the usage and performance of these
 classifiers on various tasks (e.g. face recognition).
 
+https://sourceforge.net/projects/maxbox5/files/binaries/TestClassifier64bit.exe/download
+
 Installation:
 
 This library is an extension of the mrMath and mrImgUtils libraries and 
